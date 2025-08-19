@@ -2664,7 +2664,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 115.57 92.71 0)
 			(effects
 				(font
@@ -2983,7 +2983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1_Buzzers:Buzzer_D30mm_H20mm_P15mm_668-1652-ND_AI-3035-TT-12V-R"
 			(at 146.05 73.66 0)
 			(effects
 				(font
